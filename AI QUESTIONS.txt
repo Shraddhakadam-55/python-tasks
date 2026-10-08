@@ -1,0 +1,61 @@
+Section A - AI Companies, Models & Tools
+1) developed by meta
+2)Developed by Google
+3)Developed by Anthropic
+4) Developed by xAI
+5) Developed by Mistral AI
+6) Associated with OpenAI
+7) Mainly used for AI video generation
+8) AI video-generation model by Google
+9) Mainly used for AI image generation
+10) Mainly used for AI-assisted coding/programming.
+
+Section B - Generative AI Concepts
+11)LLM → Large Language Model.
+12)Generative AI → AI that creates new content like text, images, videos, and code.
+13)Prompt → An instruction or question given to an AI.
+14)System Prompt → Instructions that control how an AI behaves and responds.
+15)Multimodal AI → AI that works with multiple data types like text, images, audio, and video.
+16)AI Hallucination → When AI gives false or made-up information as if it were true.
+17)Tokens → Small pieces of text processed by an LLM.
+18)Context Window → The amount of information an AI can process at one time.
+19)Inference → The process of an AI model generating an output from input.
+20)Fine-tuning → Further training a model for a specific task or purpose
+
+Section C - AI for Developers & Applications
+
+21)AI Agent → AI that can perform tasks and make decisions autonomously.
+22)Chatbot vs AI Agent → A chatbot mainly responds to users, while an AI agent can take actions and complete tasks.
+23)Tool/Function Calling → Allows AI to call external tools or functions to perform specific actions.
+24)MCP → Model Context Protocol.
+25)API Key → Used to authenticate and access an AI service or API.
+26)API Rate Limit → The maximum number of API requests allowed within a specific time.
+27)Cursor → An AI-powered code editor.
+28)NotebookLM → Designed to help users understand and work with their documents and sources.
+29)Semantic Search → Search that finds results based on meaning and context, not just exact keywords.
+30)Three developer tasks → Code generation, debugging, and documentation.
+
+Section D - Image, Video, Speech, Models & Hardware
+31)Speech-to-Text AI → Converts spoken words into text.
+32)Text-to-Speech AI → Converts written text into spoken audio.
+33)OCR → Extracts text from images or scanned documents.
+34)Vision Model → AI that can understand and analyze images and visual data.
+35)Text-to-Video AI → Generates videos from text prompts.
+36)Diffusion Model → Commonly used to generate images, videos, and other content.
+37)GPUs → GPUs are widely used because they can perform many calculations in parallel.
+38)NPU → Neural Processing Unit, a processor designed for AI tasks.
+39)VRAM → Mainly stores AI model weights, data, and intermediate computations.
+40)Running AI locally → Running an AI model directly on your own computer/device instead of a cloud server.
+
+Section E - Advanced Awareness, Safety & Responsible AI
+
+41)Open-weight AI model → An AI model whose trained weights are publicly available to use or modify.
+42)Model distillation → Training a smaller model to learn from a larger model.
+43)LoRA → Commonly used to efficiently fine-tune large AI models.
+44)MoE → Mixture of Experts.
+45)AI benchmark → A test used to measure and compare AI model performance.
+46)Guardrail → A safety rule that controls or limits an AI application's behavior.
+47)Prompt injection → An attack that uses instructions to manipulate an AI into ignoring its intended rules.
+48)PII → Personally Identifiable Information.
+49)Confidential data → It may expose sensitive information or violate company privacy and security policies.
+50)Important decision → Verify the AI answer using reliable sources or expert advice before using it
